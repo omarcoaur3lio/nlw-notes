@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./.github/cover.svg" width="100%" />
+  <img src="./.github/cover.png" width="100%" />
 </p>
 <br>
 <p align="center">
@@ -21,7 +21,7 @@ Neste projeto é possível criar notas de texto ou realizar a transcrição de �
 ## :camera: Preview 
 
 <div align="center">
-  <img src="./.github/preview.svg" width=80% />
+  <img src="./.github/preview.png" width=80% />
 </div>
 
 ## :rocket: Tecnologias Utilizadas
